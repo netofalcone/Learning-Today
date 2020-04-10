@@ -1,0 +1,7 @@
+//estou dizendo para o visual studio code que essa pasta é um projeto TypeSvcript
+
+{
+    "compilerOptions": {
+        "target": "ES2015"
+    }
+}
