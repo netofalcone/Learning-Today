@@ -2,9 +2,6 @@
   <img alt="Practice" src="https://i.dlpng.com/static/png/5265600-skills-png-97-images-in-collection-page-3-skill-png-200_167_preview.png" width="300px" height="225" />
 </h1>
 
-<h3 align="center">
-  SQL no Node.js com Sequelize
-</h3>
 
 <p align="center">
 This directory is used to train new skills and practices!</p>
