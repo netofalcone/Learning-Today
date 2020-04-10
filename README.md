@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img alt="Practice" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fpngimage.net%2Fpractice-png-2%2F&psig=AOvVaw3KI2_OzlX7TCi8stv0d5Am&ust=1586625191426000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCJjhj8qt3ugCFQAAAAAdAAAAABAD" width="300px" height="225" />
+  <img alt="Practice" src="https://i.dlpng.com/static/png/5265600-skills-png-97-images-in-collection-page-3-skill-png-200_167_preview.png" width="300px" height="225" />
 </h1>
 
 <h3 align="center">
