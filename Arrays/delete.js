@@ -1,4 +1,3 @@
-
 const nomes = ['José', 'Pedro', 'Ana'];
 nomes[2] = 'Carlos'
 console.log(nomes)
